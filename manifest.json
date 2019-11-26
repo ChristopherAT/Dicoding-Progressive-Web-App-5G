@@ -1,0 +1,16 @@
+{
+    "name": "Smartphone 5G",
+    "short_name": "Smartphone5G",
+    "description": "Teknologi  5G dan Smartphone yang mendukung teknologi tersebut",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
